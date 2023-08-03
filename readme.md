@@ -21,3 +21,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omfagu&show_icons=true&locale=en" alt="omfagu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omfagu&" alt="omfagu" /></p>
+
+
+![snake gif](https://github.com/omfagu/omfagu/blob/output/github-contribution-grid-snake.gif)
