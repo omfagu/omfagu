@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React,Java**
 
-- 👨‍💻 All of my projects are available at [https://fs-web-frontend-challenge-gw1hy2jcc-omfagu.vercel.app/](https://fs-web-frontend-challenge-gw1hy2jcc-omfagu.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://omergurbuz.net/](https://omergurbuz.net/)
 
 - 📫 How to reach me **omergurbuz25@hotmail.com**
 
