@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate Full Stack Web developer from Turkey</h3>
 
 
 - 👨‍💻 All of my projects are available at [https://omergurbuz.net/](https://omergurbuz.net/)
